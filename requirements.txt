@@ -1,0 +1,5 @@
+async-generator
+pyaes
+pyasn1
+rsa
+Telethon
